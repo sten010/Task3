@@ -2,7 +2,7 @@
 {
     interface IParam
     {
-        public string? Value { get; set; }
+        public string? Value { get; set; } 
     }
     public class Task3 : IParam
     {
